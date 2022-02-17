@@ -1,0 +1,22 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "com.episerver.techdaydemo"
+    }
+  },
+  "dependent_plugins": {
+    "android.support.v4": {
+      "PACKAGE_NAME": "com.episerver.techdaydemo"
+    },
+    "com.google.playservices": {
+      "PACKAGE_NAME": "com.episerver.techdaydemo"
+    }
+  }
+}
